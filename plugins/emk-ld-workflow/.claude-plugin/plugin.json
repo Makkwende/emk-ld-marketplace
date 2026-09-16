@@ -1,1 +1,9 @@
-
+{
+  "name": "emk-ld-workflow",
+  "version": "1.0.0",
+  "description": "Turns L&D, instructional design, training, talent development, onboarding, leadership development, and performance requests into structured project workflows with tasks, deliverables, dependencies, human review checkpoints, risks, and recommended next actions.",
+  "author": {
+    "name": "Dr. Maurine Kwende",
+    "url": "https://emklearningsolutions.com"
+  }
+}
